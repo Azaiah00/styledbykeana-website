@@ -32,4 +32,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://styledbykeana.netlify.app/sitemap.xml
+Sitemap: https://styledbykeana-website.netlify.app/sitemap.xml

@@ -34,11 +34,11 @@ npx serve .
 
 ## Deploy (Netlify drag-and-drop)
 1. Go to https://app.netlify.com/drop and drag this folder in.
-2. Rename the site to `styledbykeana` so the preview lives at `https://styledbykeana.netlify.app/` (the address the canonical tags already use).
+2. Rename the site to `styledbykeana` so the preview lives at `https://styledbykeana-website.netlify.app/` (the address the canonical tags already use).
 
 ## Connect Keana's own domain (styledbykeana.com)
 1. Re-register or renew `styledbykeana.com`, then add it in Netlify under Domain management and follow the DNS steps.
-2. Find and replace `https://styledbykeana.netlify.app/` with `https://styledbykeana.com/` across every `.html` file, `sitemap.xml`, `robots.txt` and `llms.txt`.
+2. Find and replace `https://styledbykeana-website.netlify.app/` with `https://styledbykeana.com/` across every `.html` file, `sitemap.xml`, `robots.txt` and `llms.txt`.
 3. Confirm the Booksy "Website" button, Instagram link and Google Business Profile website field point to the new domain.
 
 ## Editing notes

@@ -4,7 +4,7 @@ Everything below needs Keana's confirmation or action before this site goes live
 
 ## 1. The dead domain (the pitch)
 - Keana's Booksy "Website" button links to `https://styledbykeana.com/`, which does not resolve (DNS fails). Every client who taps it today gets an error.
-- Action: re-register or renew `styledbykeana.com`, point it at this site (Netlify), then swap the canonical base from `https://styledbykeana.netlify.app/` to `https://styledbykeana.com/` (see README).
+- Action: re-register or renew `styledbykeana.com`, point it at this site (Netlify), then swap the canonical base from `https://styledbykeana-website.netlify.app/` to `https://styledbykeana.com/` (see README).
 - Also update the Google Business Profile website field (currently a Booksy link) and the Instagram bio link if she wants the site to be the front door.
 
 ## 2. Conflicts found in research
@@ -30,7 +30,7 @@ Everything below needs Keana's confirmation or action before this site goes live
 
 ## 5. Placeholder / generated items
 - `assets/img/share.jpg` (social preview) and the favicon set (a Bodoni "K" inside a purple and gold ring) were generated for this concept.
-- Canonical URLs use the preview address `https://styledbykeana.netlify.app/` until her domain is connected.
+- Canonical URLs use the preview address `https://styledbykeana-website.netlify.app/` until her domain is connected.
 - No booking form: booking stays on Booksy, which is her live system today.
 
 ## 6. Nice-to-haves after launch
